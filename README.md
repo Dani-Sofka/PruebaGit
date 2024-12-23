@@ -1,1 +1,1 @@
-
+El propósito del proyecto es entender como deberían ser la buenas prácticas de desarrollo con git. posterior a ellos también conocer la diferencia entre git y GitHub, y que impacto tiene de manera positiva conocer el control de versiones y gitflow.

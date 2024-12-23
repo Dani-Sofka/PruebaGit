@@ -1,2 +1,2 @@
-Llevo varios capitulos de Demon Slayer y me ha parecido genial, desde el primer cápitulo te
-encagnchas con la historia. Lo recomiendo mucho.
+DEMON SLAYER La serie es genial, no había encontrado una que me enganchara tan rápido desde 
+el primer capítulo
